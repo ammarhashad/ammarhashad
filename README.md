@@ -2,7 +2,7 @@
 
 #### I am a full-stack developer with a strong focus on back-end development
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammarhashad&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammarhashad&layout=donut)
 
 <!--
 **ammarhashad/ammarhashad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
